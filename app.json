@@ -1,0 +1,14 @@
+{
+  "name": "activity-log-app",
+  "description": "activity log app using MongoDB with Mongoose on Node.js",
+  "image": "heroku/nodejs",
+  "repository": "https://github.com/shailendra103/activity_log.git",
+  "keywords": [
+    "node",
+    "mongoose",
+    "ODM"
+  ],
+  "addons": [
+    "mongolab"
+  ]
+}
